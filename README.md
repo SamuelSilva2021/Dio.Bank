@@ -1,2 +1,2 @@
 # Dio.Bank
-Primeiro projeto do básico de dotnet com ajuda da Dio. Aplicação de transferência bancaria.
+Primeiro projeto em C#. Aplicação de transferência bancaria.
